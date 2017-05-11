@@ -1,5 +1,5 @@
 # Cpanel and SSH Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [Cpanel and SSH Essential Training](https://www.tertiarycourses.com.sg/cpanel-and-ssh-essential-training.html) course. 
 
